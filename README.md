@@ -5,7 +5,7 @@
     <a href="#interests">Catch My Interests</a> <br>
     <a href="#tech-stack">What's your Tech Stack?</a> <br>
     <a href="#socials">Lend me your Socials</a> <br>
-  </div>
+  </div> </br>
   <div id="interests">interests</div>
   <div id="tech-stack">tech stack</div>
   <div id="socials">social</div>
