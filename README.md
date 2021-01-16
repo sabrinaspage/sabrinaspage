@@ -30,6 +30,10 @@
 <div>
   <h1 align="left" style="letter-spacing: 5px;"> Ⓛⓘⓢⓣⓔⓝⓘⓝⓖ ⓣⓞ </h1><br>
   
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=pikatree1&cover_image=true&theme=natemoo-re)](https://github.com/kittinan/spotify-github-profile)</div>
+  <div align="center">
+  
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=pikatree1&cover_image=true&theme=natemoo-re)](https://github.com/kittinan/spotify-github-profile)
+</div>
+</div>
   
 </body>
