@@ -30,9 +30,9 @@
       <h2> 𝐩𝐢𝐪𝐮𝐞 𝐦𝐲 𝐢𝐧𝐭𝐞𝐫𝐞𝐬𝐭𝐬 </h2> </br>
       <div align="center">
         <img src="https://dabuttonfactory.com/button.png?t=anime&f=Bellota-Bold&ts=26&tc=fff&tshs=3&tshc=999&hp=56&vp=14&c=25&bgt=two-colors&bgc=ead1dc&ebgc=d5a6bd" /> </br>
-        <i>shoujo, history, slice of life, tragedies</i>
+        <i>shoujo, history, slice of life, tragedies</i> </br>
         <img src="https://dabuttonfactory.com/button.png?t=socials&f=Bellota-Bold&ts=26&tc=fff&tshs=3&tshc=999&hp=56&vp=14&c=25&bgt=two-colors&bgc=cfe2f3&ebgc=9fc5e8" /> </br>
-        <i>video game rom emulation, researching, web surfing && health, reading, writing</i>
+        <i>video game rom emulation, researching, web surfing && health, reading, writing</i> </br>
         <img src="https://dabuttonfactory.com/button.png?t=socials&f=Bellota-Bold&ts=26&tc=fff&tshs=3&tshc=999&hp=56&vp=14&c=25&bgt=two-colors&bgc=d9d2e9&ebgc=b4a7d6" /> </br>
         <i>twitter, tumblr, discord, reddit</i>
       </div>
