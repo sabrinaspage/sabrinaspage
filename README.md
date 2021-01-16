@@ -20,8 +20,10 @@
   </div>
     hi
 </div>
-<div>
+<div markdown="1">
   <h1 align="right" style="letter-spacing: 5px;"> Ⓛⓘⓢⓣⓔⓝⓘⓝⓖ ⓣⓞ </h1><br>
-  [![spotify-github-profile](http://localhost:3000/api/view?uid=pikatree1&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
+  
+  [![spotify-github-profile](http://localhost:3000/api/view?uid=pikatree1&cover_image=true&theme=natemoo-re)](http://localhost:3000/api/view?uid=pikatree1&redirect=true)
+  
 </div>
 </body>
