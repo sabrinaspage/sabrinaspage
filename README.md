@@ -2,9 +2,9 @@
   
 <div style="position: relative">
   <h1 style="letter-spacing: 5px;" align="right"> 𝓼𝓪𝓫𝓻𝓲𝓷𝓪𝓼-𝓹𝓪𝓰𝓮 </h1><br>
-    <img src="https://64.media.tumblr.com/098809654401571da2195608c52d76c4/tumblr_pfmxwqR8rp1tm9dvyo1_500.gifv" align="left" style="border-radius: 50%;"/>
+    <img src="https://64.media.tumblr.com/098809654401571da2195608c52d76c4/tumblr_pfmxwqR8rp1tm9dvyo1_500.gifv" align="left"/>
   <p align="right">
-      <h2> 𝒸𝒽𝑒𝒸𝓀 𝓂𝓎 𝓉𝑒𝒸𝒽 </h2> </br>
+      <h2> 𝐜𝐡𝐞𝐜𝐤 𝐦𝐲 𝐭𝐞𝐜𝐡 </h2> </br>
       <img src="https://dabuttonfactory.com/button.png?t=c%23&f=Open+Sans-Bold&ts=13&tc=fff&hp=24&vp=10&c=0&bgt=unicolored&bgc=d0e0e3&be=1"/>
       <img src="https://dabuttonfactory.com/button.png?t=typescript&f=Open+Sans-Bold&ts=13&tc=fff&hp=24&vp=10&c=0&bgt=unicolored&bgc=f4cccc&be=1" />
       <img src="https://dabuttonfactory.com/button.png?t=python&f=Open+Sans-Bold&ts=13&tc=fff&hp=24&vp=10&c=0&bgt=unicolored&bgc=fce5cd&be=1" /> 
@@ -21,6 +21,14 @@
       <img src="https://dabuttonfactory.com/button.png?t=windows+10&f=Open+Sans-Bold&ts=13&tc=fff&hp=24&vp=10&c=0&bgt=unicolored&bgc=8e7cc3&be=1" />
       <img src="https://dabuttonfactory.com/button.png?t=ubuntu&f=Open+Sans-Bold&ts=13&tc=fff&hp=24&vp=10&c=0&bgt=unicolored&bgc=6fa8dc&be=1" />
       <img src="https://dabuttonfactory.com/button.png?t=arch+linux&f=Open+Sans-Bold&ts=13&tc=fff&hp=24&vp=10&c=0&bgt=unicolored&bgc=76a5af&be=1" /> </br>
+   </p>
+</div>
+
+<div style="position: relative">
+    <img src="https://64.media.tumblr.com/46ef13a9a9ab4e755c2e52a8353a0e0e/tumblr_p1ag6eNYYd1qzqnxxo1_540.gifv" align="right"/>
+  <p align="left">
+      <h2> 𝐩𝐢𝐪𝐮𝐞 𝐦𝐲 𝐢𝐧𝐭𝐞𝐫𝐞𝐬𝐭𝐬 </h2> </br>
+      
    </p>
 </div>
 </br>
