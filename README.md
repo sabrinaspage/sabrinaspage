@@ -25,10 +25,15 @@
 </div>
 
 <div style="position: relative">
-    <img src="https://64.media.tumblr.com/46ef13a9a9ab4e755c2e52a8353a0e0e/tumblr_p1ag6eNYYd1qzqnxxo1_540.gifv" align="right"/>
+    <img src="https://64.media.tumblr.com/5ef9b6637f207f03394c83880355c83b/tumblr_oppipsA23V1s4u80lo1_500.gifv" align="right"/>
   <p align="left">
       <h2> 𝐩𝐢𝐪𝐮𝐞 𝐦𝐲 𝐢𝐧𝐭𝐞𝐫𝐞𝐬𝐭𝐬 </h2> </br>
-      
+      <div align="center">
+        <img src="https://dabuttonfactory.com/button.png?t=anime&f=Bellota-Bold&ts=26&tc=fff&tshs=3&tshc=999&hp=56&vp=14&c=25&bgt=two-colors&bgc=ead1dc&ebgc=d5a6bd" /> </br>
+        <i>shoujo, history, slice of life, tragedies</i>
+        <img src="https://dabuttonfactory.com/button.png?t=socials&f=Bellota-Bold&ts=26&tc=fff&tshs=3&tshc=999&hp=56&vp=14&c=25&bgt=two-colors&bgc=d9d2e9&ebgc=b4a7d6" /> </br>
+        <i>twitter, tumblr, discord</i>
+      </div>
    </p>
 </div>
 </br>
