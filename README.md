@@ -4,11 +4,15 @@
   <h1 style="letter-spacing: 5px;" align="right"> 𝓼𝓪𝓫𝓻𝓲𝓷𝓪𝓼-𝓹𝓪𝓰𝓮 </h1><br>
     <img src="https://im4.ezgif.com/tmp/ezgif-4-e7fc32435f44.gif" align="left" style="border-radius: 50%;"/>
   <p align="right">
-      <h2 style="text-shadow: 2px 2px pink"> 𝓂𝓎 𝒾𝓃𝓉𝑒𝓇𝑒𝓈𝓉𝓈 </h2> </br>
-  anime, music, video games, archives, reading books 
+      <h2> 𝓂𝓎 𝒾𝓃𝓉𝑒𝓇𝑒𝓈𝓉𝓈 </h2> </br>
+      anime, music, video games, archives, reading books 
       <h2> 𝓂𝓎 𝓉𝑒𝒸𝒽 𝓈𝓉𝒶𝒸𝓀 </h2> </br>
-      <button style="color: white; background-color: pink; border-color: pink; width: 60px; height: 30px;"> python </button>
-      vercel, typescript, c++, c#, java, vhdl, adm
+      <img src="https://dabuttonfactory.com/button.png?t=c%23&f=Open+Sans-Bold&ts=13&tc=fff&hp=24&vp=10&c=0&bgt=unicolored&bgc=d0e0e3&be=1" />
+      <img src="https://dabuttonfactory.com/button.png?t=typescript&f=Open+Sans-Bold&ts=13&tc=fff&hp=24&vp=10&c=0&bgt=unicolored&bgc=f4cccc&be=1" />
+      <img src="https://dabuttonfactory.com/button.png?t=python&f=Open+Sans-Bold&ts=13&tc=fff&hp=24&vp=10&c=0&bgt=unicolored&bgc=fce5cd&be=1" /> 
+      <img src="https://dabuttonfactory.com/button.png?t=c%2B%2B&f=Open+Sans-Bold&ts=13&tc=fff&hp=24&vp=10&c=0&bgt=unicolored&bgc=ead1dc&be=1" />
+      <img src="https://dabuttonfactory.com/button.png?t=vhdl&f=Open+Sans-Bold&ts=13&tc=fff&hp=24&vp=10&c=0&bgt=unicolored&bgc=d9d2e9&be=1" />
+      <img src="https://dabuttonfactory.com/button.png?t=java&f=Open+Sans-Bold&ts=13&tc=fff&hp=24&vp=10&c=0&bgt=unicolored&bgc=cfe2f3&be=1" />
       <h2> 𝓂𝓎 𝓈❀𝒸𝒾𝒶𝓁𝓈 </h2> </br>
       discord, linkedin, email
    </p>
