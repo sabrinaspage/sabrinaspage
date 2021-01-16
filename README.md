@@ -4,15 +4,13 @@
   <h1 style="letter-spacing: 5px;" align="right"> 𝓼𝓪𝓫𝓻𝓲𝓷𝓪𝓼-𝓹𝓪𝓰𝓮 </h1><br>
     <img src="https://64.media.tumblr.com/098809654401571da2195608c52d76c4/tumblr_pfmxwqR8rp1tm9dvyo1_500.gifv" align="left" style="border-radius: 50%;"/>
   <p align="right">
-      <h2> 𝓂𝓎 𝒾𝓃𝓉𝑒𝓇𝑒𝓈𝓉𝓈 </h2> </br>
-      anime, music, video games, archives, reading books 
       <h2> 𝓂𝓎 𝓉𝑒𝒸𝒽 𝓈𝓉𝒶𝒸𝓀 </h2> </br>
       <img src="https://dabuttonfactory.com/button.png?t=c%23&f=Open+Sans-Bold&ts=13&tc=fff&hp=24&vp=10&c=0&bgt=unicolored&bgc=d0e0e3&be=1"/>
       <img src="https://dabuttonfactory.com/button.png?t=typescript&f=Open+Sans-Bold&ts=13&tc=fff&hp=24&vp=10&c=0&bgt=unicolored&bgc=f4cccc&be=1" />
       <img src="https://dabuttonfactory.com/button.png?t=python&f=Open+Sans-Bold&ts=13&tc=fff&hp=24&vp=10&c=0&bgt=unicolored&bgc=fce5cd&be=1" /> 
       <img src="https://dabuttonfactory.com/button.png?t=c%2B%2B&f=Open+Sans-Bold&ts=13&tc=fff&hp=24&vp=10&c=0&bgt=unicolored&bgc=ead1dc&be=1" />
       <img src="https://dabuttonfactory.com/button.png?t=vhdl&f=Open+Sans-Bold&ts=13&tc=fff&hp=24&vp=10&c=0&bgt=unicolored&bgc=d9d2e9&be=1" />
-      <img src="https://dabuttonfactory.com/button.png?t=java&f=Open+Sans-Bold&ts=13&tc=fff&hp=24&vp=10&c=0&bgt=unicolored&bgc=cfe2f3&be=1" /> </br>
+      <img src="https://dabuttonfactory.com/button.png?t=java&f=Open+Sans-Bold&ts=13&tc=fff&hp=24&vp=10&c=0&bgt=unicolored&bgc=cfe2f3&be=1" />
       <img src="https://dabuttonfactory.com/button.png?t=postgresql&f=Open+Sans-Bold&ts=13&tc=fff&hp=24&vp=10&c=0&bgt=unicolored&bgc=d5a6bd&be=1" />
       <img src="https://dabuttonfactory.com/button.png?t=reactjs&f=Open+Sans-Bold&ts=13&tc=fff&hp=24&vp=10&c=0&bgt=unicolored&bgc=a2c4c9&be=1" />
       <img src="https://dabuttonfactory.com/button.png?t=nextjs&f=Open+Sans-Bold&ts=13&tc=fff&hp=24&vp=10&c=0&bgt=unicolored&bgc=b6d7a8&be=1" />
