@@ -2,11 +2,9 @@
   
 <div style="position: relative">
   <h1 style="letter-spacing: 5px;" align="right"> 𝓈𝒶𝒷𝓇𝒾𝓃𝒶𝓈 𝓅𝒶𝑔𝑒 </h1></br>
-  <div markdown="1">
-  ```
-  Hi stranger. My name is Sabrina. I attend the City College of New York, CUNY, as a proud Computer Science student. I've been coding on and off for a solid two years now and have recently become serious in diving into the tech world. <br> Have a pleasant stay.
-  ```
-  </div>
+  
+  `Hi stranger. My name is Sabrina. I attend the City College of New York, CUNY, as a proud Computer Science student. I've been coding on and off for a solid two years now and have recently become serious in diving into the tech world. <br> Have a pleasant stay.`
+  
   </br> </br>
   </span>
     <img src="https://64.media.tumblr.com/098809654401571da2195608c52d76c4/tumblr_pfmxwqR8rp1tm9dvyo1_500.gifv" align="left"/>
