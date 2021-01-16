@@ -22,8 +22,6 @@
       <img src="https://dabuttonfactory.com/button.png?t=ubuntu&f=Open+Sans-Bold&ts=13&tc=fff&hp=24&vp=10&c=0&bgt=unicolored&bgc=6fa8dc&be=1" />
       <img src="https://dabuttonfactory.com/button.png?t=arch+linux&f=Open+Sans-Bold&ts=13&tc=fff&hp=24&vp=10&c=0&bgt=unicolored&bgc=76a5af&be=1" /> </br>
    </p>
-   <h2> 𝓂𝓎 𝓈❀𝒸𝒾𝒶𝓁𝓈 </h2> </br>
-      discord, linkedin, email
 </div>
 </br>
 <div>
