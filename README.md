@@ -10,7 +10,7 @@
       <img src="https://dabuttonfactory.com/button.png?t=python&f=Open+Sans-Bold&ts=13&tc=fff&hp=24&vp=10&c=0&bgt=unicolored&bgc=fce5cd&be=1" /> 
       <img src="https://dabuttonfactory.com/button.png?t=c%2B%2B&f=Open+Sans-Bold&ts=13&tc=fff&hp=24&vp=10&c=0&bgt=unicolored&bgc=ead1dc&be=1" />
       <img src="https://dabuttonfactory.com/button.png?t=vhdl&f=Open+Sans-Bold&ts=13&tc=fff&hp=24&vp=10&c=0&bgt=unicolored&bgc=d9d2e9&be=1" />
-      <img src="https://dabuttonfactory.com/button.png?t=java&f=Open+Sans-Bold&ts=13&tc=fff&hp=24&vp=10&c=0&bgt=unicolored&bgc=cfe2f3&be=1" />
+      <img src="https://dabuttonfactory.com/button.png?t=java&f=Open+Sans-Bold&ts=13&tc=fff&hp=24&vp=10&c=0&bgt=unicolored&bgc=cfe2f3&be=1" /> </br>
       <img src="https://dabuttonfactory.com/button.png?t=postgresql&f=Open+Sans-Bold&ts=13&tc=fff&hp=24&vp=10&c=0&bgt=unicolored&bgc=d5a6bd&be=1" />
       <img src="https://dabuttonfactory.com/button.png?t=reactjs&f=Open+Sans-Bold&ts=13&tc=fff&hp=24&vp=10&c=0&bgt=unicolored&bgc=a2c4c9&be=1" />
       <img src="https://dabuttonfactory.com/button.png?t=nextjs&f=Open+Sans-Bold&ts=13&tc=fff&hp=24&vp=10&c=0&bgt=unicolored&bgc=b6d7a8&be=1" />
