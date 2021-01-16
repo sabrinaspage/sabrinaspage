@@ -4,7 +4,7 @@
   <h1 style="letter-spacing: 5px;" align="right"> 𝓼𝓪𝓫𝓻𝓲𝓷𝓪𝓼-𝓹𝓪𝓰𝓮 </h1><br>
     <img src="https://64.media.tumblr.com/098809654401571da2195608c52d76c4/tumblr_pfmxwqR8rp1tm9dvyo1_500.gifv" align="left" style="border-radius: 50%;"/>
   <p align="right">
-      <h2> 𝓂𝓎 𝓉𝑒𝒸𝒽 𝓈𝓉𝒶𝒸𝓀 </h2> </br>
+      <h2> 𝒸𝒽𝑒𝒸𝓀 𝓂𝓎 𝓉𝑒𝒸𝒽 </h2> </br>
       <img src="https://dabuttonfactory.com/button.png?t=c%23&f=Open+Sans-Bold&ts=13&tc=fff&hp=24&vp=10&c=0&bgt=unicolored&bgc=d0e0e3&be=1"/>
       <img src="https://dabuttonfactory.com/button.png?t=typescript&f=Open+Sans-Bold&ts=13&tc=fff&hp=24&vp=10&c=0&bgt=unicolored&bgc=f4cccc&be=1" />
       <img src="https://dabuttonfactory.com/button.png?t=python&f=Open+Sans-Bold&ts=13&tc=fff&hp=24&vp=10&c=0&bgt=unicolored&bgc=fce5cd&be=1" /> 
