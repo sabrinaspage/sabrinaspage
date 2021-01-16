@@ -23,7 +23,7 @@
       <img src="https://dabuttonfactory.com/button.png?t=ubuntu&f=Open+Sans-Bold&ts=13&tc=fff&hp=24&vp=10&c=0&bgt=unicolored&bgc=6fa8dc&be=1" />
       <img src="https://dabuttonfactory.com/button.png?t=arch+linux&f=Open+Sans-Bold&ts=13&tc=fff&hp=24&vp=10&c=0&bgt=unicolored&bgc=76a5af&be=1" /> </br>
    </p>
-</div>
+</div> </br>
 
 <div style="position: relative">
     <img src="https://64.media.tumblr.com/5ef9b6637f207f03394c83880355c83b/tumblr_oppipsA23V1s4u80lo1_500.gifv" align="right"/>
