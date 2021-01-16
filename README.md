@@ -1,10 +1,11 @@
 <body>
   
 <div style="position: relative">
-  <h1 style="letter-spacing: 5px;" align="right"> 𝓼𝓪𝓫𝓻𝓲𝓷𝓪𝓼-𝓹𝓪𝓰𝓮 </h1><br>
+  <h1 style="letter-spacing: 5px;" align="right"> 𝓈𝒶𝒷𝓇𝒾𝓃𝒶𝓈 𝓅𝒶𝑔𝑒 </h1></br>
+  Hi stranger. My name is Sabrina. I've been coding for a solid two years now and have recently become serious in diving into the tech world. Have a pleasant stay.
     <img src="https://64.media.tumblr.com/098809654401571da2195608c52d76c4/tumblr_pfmxwqR8rp1tm9dvyo1_500.gifv" align="left"/>
   <p align="right">
-      <h2> 𝐜𝐡𝐞𝐜𝐤 𝐦𝐲 𝐭𝐞𝐜𝐡 </h2> </br>
+      <h2> 𝐭𝐞𝐜𝐡 𝐦𝐲 𝐬𝐭𝐚𝐜𝐤 </h2> </br>
       <img src="https://dabuttonfactory.com/button.png?t=c%23&f=Open+Sans-Bold&ts=13&tc=fff&hp=24&vp=10&c=0&bgt=unicolored&bgc=d0e0e3&be=1"/>
       <img src="https://dabuttonfactory.com/button.png?t=typescript&f=Open+Sans-Bold&ts=13&tc=fff&hp=24&vp=10&c=0&bgt=unicolored&bgc=f4cccc&be=1" />
       <img src="https://dabuttonfactory.com/button.png?t=python&f=Open+Sans-Bold&ts=13&tc=fff&hp=24&vp=10&c=0&bgt=unicolored&bgc=fce5cd&be=1" /> 
