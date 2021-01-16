@@ -29,12 +29,12 @@
   <p align="left">
       <h2> 𝐩𝐢𝐪𝐮𝐞 𝐦𝐲 𝐢𝐧𝐭𝐞𝐫𝐞𝐬𝐭𝐬 </h2> </br>
       <div align="center">
-        <img src="https://dabuttonfactory.com/button.png?t=anime&f=Bellota-Bold&ts=26&tc=fff&tshs=3&tshc=999&hp=56&vp=14&c=25&bgt=two-colors&bgc=ead1dc&ebgc=d5a6bd" /> </br>
-        <i>shoujo, history, slice of life, tragedies</i> </br> </br>
-        <img src="https://dabuttonfactory.com/button.png?t=socials&f=Bellota-Bold&ts=26&tc=fff&tshs=3&tshc=999&hp=56&vp=14&c=25&bgt=two-colors&bgc=cfe2f3&ebgc=9fc5e8" /> </br>
+        <img src="https://dabuttonfactory.com/button.png?t=anime%2Fmanga&f=Bellota-Bold&ts=26&tc=fff&tshs=3&tshc=999&hp=56&vp=14&c=25&bgt=two-colors&bgc=ead1dc&ebgc=d5a6bd" /> </br>
+        <i>shoujo, history, slice of life, tragedy, comedy</i> </br> </br>
+        <img src="https://dabuttonfactory.com/button.png?t=hobbies&f=Bellota-Bold&ts=26&tc=fff&tshs=3&tshc=999&hp=56&vp=14&c=25&bgt=two-colors&bgc=cfe2f3&ebgc=9fc5e8" /> </br>
         <i>video game rom emulation, researching, web surfing </br> health, reading, writing</i> </br> </br>
-        <img src="https://dabuttonfactory.com/button.png?t=socials&f=Bellota-Bold&ts=26&tc=fff&tshs=3&tshc=999&hp=56&vp=14&c=25&bgt=two-colors&bgc=d9d2e9&ebgc=b4a7d6" /> </br> 
-        <i>twitter, tumblr, discord, reddit</i>
+        <img src="https://dabuttonfactory.com/button.png?t=contact&f=Bellota-Bold&ts=26&tc=fff&tshs=3&tshc=999&hp=56&vp=14&c=25&bgt=two-colors&bgc=d9d2e9&ebgc=b4a7d6" /> </br> 
+        <i><a href="https://www.linkedin.com/in/sabrina-reyes-8012a2164/">linkedin</a></i>
       </div>
    </p>
 </div>
@@ -44,7 +44,6 @@
 <div align="center">
   
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=pikatree1&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile) </br>
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sabrinaspage)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 </div>
