@@ -2,7 +2,9 @@
   
 <div style="position: relative">
   <h1 style="letter-spacing: 5px;" align="right"> 𝓈𝒶𝒷𝓇𝒾𝓃𝒶𝓈 𝓅𝒶𝑔𝑒 </h1></br>
-  Hi stranger. My name is Sabrina. I've been coding for a solid two years now and have recently become serious in diving into the tech world. Have a pleasant stay. </br> </br>
+  <span align="center">
+  Hi stranger. My name is Sabrina. I attend the City College of New York, CUNY, as a proud Computer Science student. I've been coding on and off for a solid two years now and have recently become serious in diving into the tech world. <br> Have a pleasant stay. </br> </br>
+  </span>
     <img src="https://64.media.tumblr.com/098809654401571da2195608c52d76c4/tumblr_pfmxwqR8rp1tm9dvyo1_500.gifv" align="left"/>
   <p align="right">
       <h2> 𝐭𝐞𝐜𝐡 𝐦𝐲 𝐬𝐭𝐚𝐜𝐤 </h2> </br>
@@ -34,7 +36,7 @@
         <i>shoujo, history, slice of life, tragedy, comedy</i> </br> </br>
         <img src="https://dabuttonfactory.com/button.png?t=hobbies&f=Bellota-Bold&ts=26&tc=fff&tshs=3&tshc=999&hp=56&vp=14&c=25&bgt=two-colors&bgc=cfe2f3&ebgc=9fc5e8" /> </br>
         <i>video game rom emulation, researching, web surfing </br> health, reading, writing</i> </br> </br>
-        <img src="https://dabuttonfactory.com/button.png?t=contact&f=Bellota-Bold&ts=26&tc=fff&tshs=3&tshc=999&hp=56&vp=14&c=25&bgt=two-colors&bgc=d9d2e9&ebgc=b4a7d6" /> </br> 
+        <img src="https://dabuttonfactory.com/button.png?t=socials&f=Bellota-Bold&ts=26&tc=fff&tshs=3&tshc=999&hp=56&vp=14&c=25&bgt=two-colors&bgc=d9d2e9&ebgc=b4a7d6" /> </br> 
         <i>twitter, discord, tumblr (yup), reddit, <a href="https://www.linkedin.com/in/sabrina-reyes-8012a2164/">linkedin</a></i>
       </div>
    </p>
