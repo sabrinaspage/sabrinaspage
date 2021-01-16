@@ -2,7 +2,7 @@
   
 <div style="position: relative">
   <h1 style="letter-spacing: 5px;" align="right"> 𝓼𝓪𝓫𝓻𝓲𝓷𝓪𝓼-𝓹𝓪𝓰𝓮 </h1><br>
-    <img src="https://64.media.tumblr.com/d8a0b9c5763822186d1850c84540e7ae/da6337b831aba94d-76/s540x810/617c5f67c6dd9f5bd60d16aad771a9c706706823.gifv" align="left" style="border-radius: 50%;"/>
+    <img src="https://im4.ezgif.com/tmp/ezgif-4-e7fc32435f44.gif" align="left" style="border-radius: 50%;"/>
   <p align="right">
       <h2 style="text-shadow: 2px 2px pink"> 𝓂𝓎 𝒾𝓃𝓉𝑒𝓇𝑒𝓈𝓉𝓈 </h2> </br>
   anime, music, video games, archives, reading books 
