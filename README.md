@@ -23,7 +23,9 @@
       <img src="https://dabuttonfactory.com/button.png?t=tailwindcss&f=Open+Sans-Bold&ts=13&tc=fff&hp=24&vp=10&c=0&bgt=unicolored&bgc=ffe599&be=1" />
       <img src="https://dabuttonfactory.com/button.png?t=typeorm&f=Open+Sans-Bold&ts=13&tc=fff&hp=24&vp=10&c=0&bgt=unicolored&bgc=f9cb9c&be=1" />
       <img src="https://dabuttonfactory.com/button.png?t=beautiful+soup&f=Open+Sans-Bold&ts=13&tc=fff&hp=24&vp=10&c=0&bgt=unicolored&bgc=ea9999&be=1" />
-      <img src="https://dabuttonfactory.com/button.png?t=vscode&f=Open+Sans-Bold&ts=13&tc=fff&hp=24&vp=10&c=0&bgt=unicolored&bgc=b4a7d6&be=1" /> </br>
+      <img src="https://dabuttonfactory.com/button.png?t=vscode&f=Open+Sans-Bold&ts=13&tc=fff&hp=24&vp=10&c=0&bgt=unicolored&bgc=b4a7d6&be=1" /> 
+      <img src="https://dabuttonfactory.com/button.png?t=AWS&f=Open+Sans-Bold&ts=13&tc=fff&hp=24&vp=10&c=0&bgt=unicolored&bgc=ffd966&be=1" />
+      </br>
       <img src="https://dabuttonfactory.com/button.png?t=ubuntu&f=Open+Sans-Bold&ts=13&tc=fff&hp=24&vp=10&c=0&bgt=unicolored&bgc=6fa8dc&be=1" />
       <img src="https://dabuttonfactory.com/button.png?t=arch+linux&f=Open+Sans-Bold&ts=13&tc=fff&hp=24&vp=10&c=0&bgt=unicolored&bgc=76a5af&be=1" />
       <img src="https://dabuttonfactory.com/button.png?t=windows+10&f=Open+Sans-Bold&ts=13&tc=fff&hp=24&vp=10&c=0&bgt=unicolored&bgc=8e7cc3&be=1" />
