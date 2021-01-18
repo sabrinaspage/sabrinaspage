@@ -54,8 +54,6 @@
   
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=pikatree1&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile) </br>
 
-![](https://komarev.com/ghpvc/?username=sabrinaspage&color=dc143c)
-
 </div>
 </div>
   
