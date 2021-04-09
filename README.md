@@ -8,7 +8,7 @@
   
   </br>
   </span>
-  <img src="https://64.media.tumblr.com/5ef9b6637f207f03394c83880355c83b/tumblr_oppipsA23V1s4u80lo1_500.gifv" align="left"/>
+  <img src="https://64.media.tumblr.com/fe0dc297e776498ea1a1e477cb05baa3/tumblr_pz6uwnwxs61v059coo1_540.gifv" align="left"/>
   <p align="right">
       <h2> 𝐭𝐞𝐜𝐡 𝐦𝐲 𝐬𝐭𝐚𝐜𝐤 </h2> </br>
       <img src="https://dabuttonfactory.com/button.png?t=c%23&f=Open+Sans-Bold&ts=13&tc=fff&hp=24&vp=10&c=0&bgt=unicolored&bgc=d0e0e3&be=1"/>
