@@ -34,7 +34,7 @@
 </div> </br>
 
 <div style="position: relative">
-    <img src="https://64.media.tumblr.com/5ef9b6637f207f03394c83880355c83b/tumblr_oppipsA23V1s4u80lo1_500.gifv" align="right"/>
+    <img src="https://64.media.tumblr.com/8800f0a3b74ae81105f83573ef47a0a3/dc6b934358bcdd01-62/s540x810/28461bb29041dd4cc1e1457548624b83230be579.gifv" align="right"/>
   <p align="left">
       <h2> 𝐩𝐢𝐪𝐮𝐞 𝐦𝐲 𝐢𝐧𝐭𝐞𝐫𝐞𝐬𝐭𝐬 </h2> </br>
       <div align="center">
