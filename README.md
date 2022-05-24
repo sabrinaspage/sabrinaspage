@@ -3,8 +3,9 @@
 <div style="position: relative">
   <h1 style="letter-spacing: 5px;" align="right"> 𝓈𝒶𝒷𝓇𝒾𝓃𝒶𝓈 𝓅𝒶𝑔𝑒 </h1></br>
   
-`Hi stranger. My name is Sabrina. I attend the City College of New York, CUNY as a proud Computer Science student. I've been coding on and off for a solid two-three years now and want to dive far into the tech space.`</br>
-`Have a pleasant stay.`
+  > Hi stranger. My name is Sabrina. I attend the City College of New York, CUNY part-time as a proud Computer Science student. I've been coding since early 2019 and want to dive far into the tech space. 💕 🍭 🌸 Have a pleasant stay.
+
+  .❀。• *₊°。 ❀°。.❀。• *₊°。 ❀°。.❀。• *₊°。 ❀°。.❀。• *₊°。 ❀°。.❀。• *₊°。 ❀°。.❀。• *₊°。 ❀°。.❀。• *₊°。 ❀°。.❀。• *₊°。 ❀°。
   
   </br>
   </span>
