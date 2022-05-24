@@ -5,7 +5,7 @@
   
   > Hi stranger. My name is Sabrina. I attend the City College of New York, CUNY part-time as a proud Computer Science student. I've been coding since early 2019, but I have been interested in technology since the dawn of (my) time. Let's keep it that way. 🍭 Have a pleasant stay.
 
-  .❀。• *₊°。 ❀°。.❀。• *₊°。 ❀°。.❀。• *₊°。 ❀°。.❀。• *₊°。 ❀°。.❀。• *₊°。 ❀°。.❀。• *₊°。 ❀°。.❀。• *₊°。 ❀°。.❀。• 
+  .❀。• *₊°。 ❀°。.❀。• *₊°。 ❀°。.❀。• *₊°。 ❀°。.❀。• *₊°。 ❀°。.❀。• *₊°。 ❀°。.❀。• *₊°。 ❀°。.❀。• *₊°。 ❀°。.❀。• ❀。• 
   
   </br>
   </span>
