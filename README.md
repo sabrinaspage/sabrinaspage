@@ -3,7 +3,7 @@
 <div style="position: relative">
   <h1 style="letter-spacing: 5px;" align="right"> 𝓈𝒶𝒷𝓇𝒾𝓃𝒶𝓈 𝓅𝒶𝑔𝑒 </h1></br>
   
-  > Hi stranger. My name is Sabrina. I've been coding since 2019, but I have been interested in technology since the dawn of (my) time. 🍭 Have a pleasant stay.
+  > Hi stranger. My name is Sabrina. I've been coding since 2019, but I have been interested in technology since the dawn of (my) time. 🍭 Have a pleasant stay. (A lot of this info is out of date... Stay tuned for updates!)
   
   <p align="center"> .❀。• *₊°。 ❀°。.❀。• *₊°。 ❀°。.❀。• *₊° </p>
   
