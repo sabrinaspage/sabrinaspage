@@ -61,7 +61,7 @@
         <img src="https://dabuttonfactory.com/button.png?t=hobbies&f=Bellota-Bold&ts=26&tc=fff&tshs=3&tshc=999&hp=56&vp=14&c=25&bgt=two-colors&bgc=cfe2f3&ebgc=9fc5e8" /> </br>
         <i>video game rom emulation, researching, web surfing </br> design, frontend, reading, writing</i> </br> </br>
         <img src="https://dabuttonfactory.com/button.png?t=socials&f=Bellota-Bold&ts=26&tc=fff&tshs=3&tshc=999&hp=56&vp=14&c=25&bgt=two-colors&bgc=d9d2e9&ebgc=b4a7d6" /> </br> 
-        <i>twitter, discord, reddit, <a href="https://www.linkedin.com/in/sabrina-reyes-8012a2164/">linkedin</a></i>
+        <i>discord, reddit, <a href="https://www.linkedin.com/in/sabrina-reyes-8012a2164/">linkedin</a></i>
       </div>
    </p>
 </div>
