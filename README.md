@@ -53,7 +53,7 @@
   <h1 align="left" style="letter-spacing: 5px; float: left;"> 𝓉𝓇𝒶𝒸𝓀 𝓂𝑒 </h1><br>
 <div align="center">
   
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=pikatree1&cover_image=true&theme=default)](https://github.com/sabrinaspage) </br>
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=pikatree1&cover_image=true&theme=default)](https://github.com/sabrinaspage) </br>
 
 </div>
 </div>
