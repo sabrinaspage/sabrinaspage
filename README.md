@@ -9,7 +9,7 @@
   
   </br>
   </span>
-  <img src="https://64.media.tumblr.com/7eb749edd8a46f5db6ff6f62e2bcb033/tumblr_ptz8ejGCXF1uq2sr8o1_500.gifv" align="left"/>
+  <img src="https://64.media.tumblr.com/33b8cecffd69381a6d8485f47fa184d2/e1a196fbbb7e04cd-f3/s640x960/f1896047ef04b9c0dd84b81397cd6ef2efc0e47c.gifv" align="left"/>
   <p align="right">
       <h2> 𝐭𝐞𝐜𝐡 𝐦𝐲 𝐬𝐭𝐚𝐜𝐤 </h2> </br>
       <img src="https://dabuttonfactory.com/button.png?t=c%23&f=Open+Sans-Bold&ts=13&tc=fff&hp=24&vp=10&c=0&bgt=unicolored&bgc=d0e0e3&be=1"/>
