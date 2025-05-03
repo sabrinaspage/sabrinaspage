@@ -1,7 +1,13 @@
 <body>
   
 <div style="position: relative">
-  <h1 style="letter-spacing: 5px;" align="right"> 𝓈𝒶𝒷𝓇𝒾𝓃𝒶𝓈 𝓅𝒶𝑔𝑒 </h1></br>
+  <div id="user-content-toc" align="right">
+    <ul style="list-style: none;">
+      <summary>
+        <h1 style="letter-spacing: 5px;" align="right"> 𝓈𝒶𝒷𝓇𝒾𝓃𝒶𝓈 𝓅𝒶𝑔𝑒 </h1></br>
+      </summary>
+    </ul>
+  </div>
   
   > Hi stranger. My name is Sabrina. I've been coding since 2019, but I have been interested in technology since the dawn of (my) time. 🍭 Have a pleasant stay.
   
@@ -11,7 +17,13 @@
   </span>
   <img src="https://64.media.tumblr.com/33b8cecffd69381a6d8485f47fa184d2/e1a196fbbb7e04cd-f3/s640x960/f1896047ef04b9c0dd84b81397cd6ef2efc0e47c.gifv" width="500" align="left"/>
   <p align="right">
-      <h2> 𝐭𝐞𝐜𝐡 𝐦𝐲 𝐬𝐭𝐚𝐜𝐤 </h2> </br>
+      <div id="user-content-toc">
+        <ul style="list-style: none;">
+          <summary>
+            <h2 border="none"> 𝐭𝐞𝐜𝐡 𝐦𝐲 𝐬𝐭𝐚𝐜𝐤 </h2> </br>
+          </summary>
+        </ul>
+      </div>
       <img src="https://dabuttonfactory.com/button.png?t=c%23&f=Open+Sans-Bold&ts=13&tc=fff&hp=24&vp=10&c=0&bgt=unicolored&bgc=d0e0e3&be=1"/>
       <img src="https://dabuttonfactory.com/button.png?t=typescript&f=Open+Sans-Bold&ts=13&tc=fff&hp=24&vp=10&c=0&bgt=unicolored&bgc=f4cccc&be=1" />
       <img src="https://dabuttonfactory.com/button.png?t=python&f=Open+Sans-Bold&ts=13&tc=fff&hp=24&vp=10&c=0&bgt=unicolored&bgc=fce5cd&be=1" /> 
@@ -34,9 +46,15 @@
 </div> </br>
 
 <div style="position: relative">
-    <img src="https://i.imgur.com/FFFEYpI.gif" align="right"/>
-  <p align="left">
-      <h2> 𝐩𝐢𝐪𝐮𝐞 𝐦𝐲 𝐢𝐧𝐭𝐞𝐫𝐞𝐬𝐭𝐬 </h2> </br>
+  <img src="https://i.imgur.com/FFFEYpI.gif" align="right"/>
+      <p align="left">
+      <div id="user-content-toc">
+          <ul style="list-style: none;">
+            <summary>
+              <h2> 𝐩𝐢𝐪𝐮𝐞 𝐦𝐲 𝐢𝐧𝐭𝐞𝐫𝐞𝐬𝐭𝐬 </h2> </br>
+            </summary>
+          </ul>
+      </div>
       <div align="center">
         <img src="https://dabuttonfactory.com/button.png?t=anime%2Fmanga&f=Bellota-Bold&ts=26&tc=fff&tshs=3&tshc=999&hp=56&vp=14&c=25&bgt=two-colors&bgc=ead1dc&ebgc=d5a6bd" /> </br>
         <i>shoujo, history, slice of life, tragedy, comedy</i> </br> </br>
