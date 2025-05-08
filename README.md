@@ -43,7 +43,7 @@
       <img src="https://dabuttonfactory.com/button.png?t=arch+linux&f=Open+Sans-Bold&ts=13&tc=fff&hp=24&vp=10&c=0&bgt=unicolored&bgc=76a5af&be=1" />
       </br>
    </p>
-</div> </br>
+</div>
 
 <div style="position: relative">
   <img src="https://i.imgur.com/FFFEYpI.gif" align="right"/>
