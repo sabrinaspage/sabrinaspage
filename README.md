@@ -15,7 +15,7 @@
 
   <table>
     <tr>
-      <th>Skills</th>
+      <th>Technical Skills</th>
       <th>Experience</th>
       <th>Favorite Tools</th>
       <th>Recent Interests</th>
