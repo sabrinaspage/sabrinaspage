@@ -28,8 +28,6 @@
     </tr>
   </table>
   
-  <p align="center"> .❀。• *₊°。 ❀°。.❀。• *₊°。 ❀°。.❀。• *₊° </p>
-
   <img align="left" src="https://github.com/user-attachments/assets/765b6608-03d3-4a11-a4f6-8724fbac6caa" height="550"/>
 
 <div>
