@@ -21,9 +21,9 @@
       <th><img src="https://blinkies.cafe/b/blinkiesCafe-uh.gif"/></th>
     </tr>
     <tr>
-      <td>Prisma, TypeScript, Ruby on Rails, React</td>
+      <td>Prisma, TypeScript, Ruby on Rails, React, NodeJS, AWS S3, Docker, Postgres</td>
       <td>SWE, 6+ years in the making <br/> 3+ years in insurance! </td>
-      <td>Cursor, Warp</td>
+      <td>Cursor, Warp, DataDog</td>
       <td>AI ethics, meeting new people, politics + activism, non-fiction, breakcore, traveling, foodddd</td>
     </tr>
   </table>
