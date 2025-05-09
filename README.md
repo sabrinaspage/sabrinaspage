@@ -12,6 +12,9 @@
   > Hi stranger. My name is Sabrina. I've been coding since 2019, but I have been interested in technology since the dawn of (my) time. 🍭 Have a pleasant stay.
   
   <p align="center"> .❀。• *₊°。 ❀°。.❀。• *₊°。 ❀°。.❀。• *₊° </p>
+
+  <img align="left" src="https://github.com/user-attachments/assets/765b6608-03d3-4a11-a4f6-8724fbac6caa" height="550"/>
+
 <div>
   <h1 align="left" style="letter-spacing: 5px; float: left;"> 𝓉𝓇𝒶𝒸𝓀 𝓂𝑒 </h1><br>
 <div align="center">
