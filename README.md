@@ -11,7 +11,7 @@
   
   > Hi stranger. My name is Sabrina. I've been coding since 2019, but I have been interested in technology since the dawn of (my) time. 🍭 Have a pleasant stay.
   
-  <p align="center"> .❀。• *₊°。 ❀°。.❀。• *₊°。 ❀°。.❀。• *₊° </p>
+ [comment]: <> (<p align="center"> .❀。• *₊°。 ❀°。.❀。• *₊°。 ❀°。.❀。• *₊° </p>)
 
   <table>
     <tr>
