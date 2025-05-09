@@ -9,7 +9,7 @@
     </ul>
   </div>
   
-  > Hi stranger. My name is Sabrina. I've been coding since 2019, but I have been interested in technology since the dawn of (my) time. 🍭 Have a pleasant stay.
+  > Hi stranger. My name is Sabrina, your **favorite** Dominican-American Gen Zer. I've been coding since 2019, but I have been interested in technology since the dawn of (my) time. 🍭 Have a pleasant stay.
   
   <p align="center"> .❀。• *₊°。 ❀°。.❀。• *₊°。 ❀°。.❀。• *₊° </p>
 
@@ -22,7 +22,7 @@
     </tr>
     <tr>
       <td>Prisma, TypeScript, Ruby on Rails, React</td>
-      <td>SWE, 6+ years in the making</td>
+      <td>SWE, 6+ years in the making <br/> 3+ years in insurance! </td>
       <td>Cursor, Warp</td>
       <td>AI ethics, meeting new people, politics + activism, non-fiction, breakcore, traveling, foodddd</td>
     </tr>
@@ -37,8 +37,6 @@
 <div align="center">
   
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=pikatree1&cover_image=true&theme=default)](https://github.com/sabrinaspage) </br>
-
- <p align="center"> .❀。• *₊°。 ❀°。.❀。• *₊°。 ❀°。.❀。• *₊° </p>
 
 </div>
 
