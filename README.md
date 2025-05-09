@@ -15,10 +15,10 @@
 
   <table>
     <tr>
-      <th>Technical Skills</th>
-      <th>Experience</th>
-      <th>Favorite Tools</th>
-      <th>Recent Interests</th>
+      <th><img src="https://blinkies.cafe/b/blinkiesCafe-GC.gif"/></th>
+      <th><img src="https://blinkies.cafe/b/blinkiesCafe-Q1.gif"/></th>
+      <th><img src="https://blinkies.cafe/b/blinkiesCafe-40.gif"/></th>
+      <th><img src="https://blinkies.cafe/b/blinkiesCafe-uh.gif"/></th>
     </tr>
     <tr>
       <td>Prisma, TypeScript, Ruby on Rails, React</td>
