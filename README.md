@@ -13,6 +13,21 @@
   
   <p align="center"> .❀。• *₊°。 ❀°。.❀。• *₊°。 ❀°。.❀。• *₊° </p>
 
+  <table>
+    <tr>
+      <th>Skills</th>
+      <th>Experience</th>
+      <th>Favorite Tool</th>
+      <th>Recent Interests</th>
+    </tr>
+    <tr>
+      <td>Prisma, TypeScript, Ruby on Rails, React</td>
+      <td>SWE, 4+ years in the making</td>
+      <td>Cursor, Warp</td>
+      <td>AI Ethics, exploring NYC, activism</td>
+    </tr>
+  </table>
+
   <img align="left" src="https://github.com/user-attachments/assets/765b6608-03d3-4a11-a4f6-8724fbac6caa" height="550"/>
 
 <div>
