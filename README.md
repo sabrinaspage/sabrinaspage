@@ -22,7 +22,7 @@
     </tr>
     <tr>
       <td>Prisma, TypeScript, Ruby on Rails, React</td>
-      <td>SWE, 4+ years in the making</td>
+      <td>SWE, 6+ years in the making</td>
       <td>Cursor, Warp</td>
       <td>AI Ethics, exploring NYC, activism</td>
     </tr>
