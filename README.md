@@ -17,7 +17,7 @@
     <tr>
       <th>Skills</th>
       <th>Experience</th>
-      <th>Favorite Tool</th>
+      <th>Favorite Tools</th>
       <th>Recent Interests</th>
     </tr>
     <tr>
