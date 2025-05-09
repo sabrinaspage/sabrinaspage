@@ -27,6 +27,8 @@
       <td>AI ethics, meeting new people, politics + activism, non-fiction, breakcore, traveling, foodddd</td>
     </tr>
   </table>
+  
+  <p align="center"> .❀。• *₊°。 ❀°。.❀。• *₊°。 ❀°。.❀。• *₊° </p>
 
   <img align="left" src="https://github.com/user-attachments/assets/765b6608-03d3-4a11-a4f6-8724fbac6caa" height="550"/>
 
@@ -36,7 +38,10 @@
   
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=pikatree1&cover_image=true&theme=default)](https://github.com/sabrinaspage) </br>
 
+ <p align="center"> .❀。• *₊°。 ❀°。.❀。• *₊°。 ❀°。.❀。• *₊° </p>
+
 </div>
+
 </div>
   
 </body>
