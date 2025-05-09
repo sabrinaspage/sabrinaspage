@@ -24,7 +24,7 @@
       <td>Prisma, TypeScript, Ruby on Rails, React</td>
       <td>SWE, 6+ years in the making</td>
       <td>Cursor, Warp</td>
-      <td>AI ethics, exploring NYC, politics + activism, non-fiction, breakcore, traveling, foodddd</td>
+      <td>AI ethics, meeting new people, politics + activism, non-fiction, breakcore, traveling, foodddd</td>
     </tr>
   </table>
 
