@@ -15,9 +15,9 @@
 
   <table>
     <tr>
-      <th><img src="https://blinkies.cafe/b/blinkiesCafe-GC.gif"/></th>
-      <th><img src="https://blinkies.cafe/b/blinkiesCafe-Q1.gif"/></th>
-      <th><img src="https://blinkies.cafe/b/blinkiesCafe-40.gif"/></th>
+      <th><img src="https://github.com/user-attachments/assets/628ecda5-00b2-4772-8366-de468171d6f4"/></th>
+      <th><img src="https://github.com/user-attachments/assets/3ddc2909-689b-465c-9291-ad4fd300d351"/></th>
+      <th><img src="https://github.com/user-attachments/assets/1418f5c2-1abb-4bbf-804a-fa8da0ee1b5b"/></th>
       <th><img src="https://blinkies.cafe/b/blinkiesCafe-du.gif"/></th>
     </tr>
     <tr>
