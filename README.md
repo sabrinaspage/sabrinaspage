@@ -18,7 +18,7 @@
       <th><img src="https://blinkies.cafe/b/blinkiesCafe-GC.gif"/></th>
       <th><img src="https://blinkies.cafe/b/blinkiesCafe-Q1.gif"/></th>
       <th><img src="https://blinkies.cafe/b/blinkiesCafe-40.gif"/></th>
-      <th><img src="https://blinkies.cafe/b/blinkiesCafe-uh.gif"/></th>
+      <th><img src="https://blinkies.cafe/b/blinkiesCafe-zR.gif"/></th>
     </tr>
     <tr>
       <td>Prisma, TypeScript, Ruby on Rails, React, Material UI, NodeJS, AWS S3, Docker, Postgres, SQL</td>
