@@ -18,7 +18,7 @@
       <th><img src="https://github.com/user-attachments/assets/628ecda5-00b2-4772-8366-de468171d6f4"/></th>
       <th><img src="https://github.com/user-attachments/assets/3ddc2909-689b-465c-9291-ad4fd300d351"/></th>
       <th><img src="https://github.com/user-attachments/assets/1418f5c2-1abb-4bbf-804a-fa8da0ee1b5b"/></th>
-      <th><img src="https://blinkies.cafe/b/blinkiesCafe-du.gif"/></th>
+      <th><img src="https://github.com/user-attachments/assets/99f1eae8-6c94-47ba-bcd8-8a130eb42cb9"/></th>
     </tr>
     <tr>
       <td>Prisma, TypeScript, Ruby on Rails, React, Material UI, NodeJS, AWS S3, Docker, Postgres, SQL</td>
