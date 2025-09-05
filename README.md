@@ -21,7 +21,7 @@
       <th><img src="https://github.com/user-attachments/assets/99f1eae8-6c94-47ba-bcd8-8a130eb42cb9"/></th>
     </tr>
     <tr>
-      <td>Prisma, TypeScript, Ruby on Rails, React, Material UI, NodeJS, AWS S3, Docker, Postgres, SQL</td>
+      <td>Kafka, TypeScript, Ruby on Rails, React, Material UI, Prisma, AWS S3, Docker, Postgres, SQL</td>
       <td>SWE, 6+ years in the making <br/> 4+ years in insurance! </td>
       <td>Cursor, Warp, DataDog, Temporal, Nomad</td>
       <td>AI ethics, meeting new people, politics + activism, non-fiction, breakcore, traveling, foodddd</td>
