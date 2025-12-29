@@ -37,7 +37,7 @@
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=pikatree1&cover_image=true&theme=default)](https://github.com/sabrinaspage) </p>
 ![Leetcode Stats](https://leetcard.jacoblin.cool/sabrey?ext=activity&theme=wtf)
 
-<div align="right">it's not impressive, which is why I am sharing it with you all. by checking out my page, <i>you</i> opted into keeping me in check. </div>
+<div align="right">it's not impressive, which is why I am sharing it with you all. </br> by checking out my page, <i>you</i> opted into keeping me in check. </div>
 
 </div>
 
