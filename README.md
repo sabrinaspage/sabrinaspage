@@ -35,6 +35,8 @@
 <div align="center">
   
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=pikatree1&cover_image=true&theme=default)](https://github.com/sabrinaspage) </br>
+![Leetcode Stats](https://leetcard.jacoblin.cool/sabrey?ext=activity&theme=wtf)
+<div align="right" style="padding-right: 5px">it's not impressive, which is why I am sharing it with you all; </br> you <i> will </i> keep me in check </div>
 
 </div>
 
