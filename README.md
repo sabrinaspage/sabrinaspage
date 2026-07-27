@@ -24,7 +24,7 @@
       <td>Kafka, TypeScript, Ruby on Rails, React, Material UI, Prisma, AWS S3, Docker, Postgres, SQL</td>
       <td>SWE, 6+ years in the making <br/> 5+ years in insurance! </td>
       <td>Claude Code, Cursor, Warp, DataDog, Temporal, Nomad</td>
-      <td>system design, meeting new people, politics, non-fiction, breakcore, traveling, CICO, video games</td>
+      <td>system design, AI companionship, politics, non-fiction, breakcore, traveling, CICO, video games</td>
     </tr>
   </table>
   
