@@ -34,7 +34,7 @@
   <h1 align="left" style="letter-spacing: 5px; float: left;"> 𝓉𝓇𝒶𝒸𝓀 𝓂𝑒 </h1><br>
 <div align="center">
   
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=pikatree1&cover_image=true&theme=default)](https://github.com/sabrinaspage) </p>
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=pikatree1&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false)](https://github.com/kittinan/spotify-github-profile) </p>
 ![Leetcode Stats](https://leetcard.jacoblin.cool/sabrey?ext=activity&theme=wtf)
 
 <div align="right">it's not impressive, which is why I am sharing it with you all. </br> by checking out my page, <i>you</i> opt into keeping me in check. </div>
